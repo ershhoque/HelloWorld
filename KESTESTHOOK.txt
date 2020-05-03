@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0A81-A99C
+
+ Directory of C:\Users\Admin\Desktop\DevOps\Jenkins\JavaProject1
+
+03/05/2020  22:35    <DIR>          .
+03/05/2020  22:35    <DIR>          ..
+03/05/2020  22:33               675 Hello.class
+03/05/2020  18:42               163 Hello.java
+03/05/2020  22:31               512 KESTEST.txt
+03/05/2020  22:35                 0 KESTESTHOOK.txt
+03/05/2020  20:06               463 readme.txt
+               5 File(s)          1,813 bytes
+               2 Dir(s)  90,388,004,864 bytes free
